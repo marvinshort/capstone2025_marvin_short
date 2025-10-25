@@ -78,24 +78,24 @@ This capstone gave me the chance to explore that curiosity in depth and contribu
 * Sublime Text (Build 4200) - for browsing extremely large (1.3 Gb) text file data dumps to identify data series to extract.
 * Anaconda Navigator 2.6.6/Jupyter Notebook 7.3.2/Python 3:
 
-&nbsp;	
+ 
 
-&nbsp;	(Pandas Module) - for exploration, formatting, filtering, slicing, and aggregation of the data
+ 	(Pandas Module) - for exploration, formatting, filtering, slicing, and aggregation of the data
 
-&nbsp;	
+ 
 
-&nbsp;	(Requests Module) - for interacting with the U.S. Energy Information Administration API within a python notebook to 	query data from a website
+ 	(Requests Module) - for interacting with the U.S. Energy Information Administration API within a python notebook to 	query data from a website
 
 
 
 * Git - for backups and version control
 * Microsoft Power BI (v2.148.878.0, 64-bit) - for data visualization
 
-  
 
-  
 
-  
+
+
+
 
   ### The Process
 
