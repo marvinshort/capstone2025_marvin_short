@@ -75,40 +75,46 @@ This capstone gave me the chance to explore that curiosity in depth and contribu
 
 
 
-1. Sublime Text (Build 4200) - for browsing extremely large (1.3 Gb) text file data dumps to identify data series to extract.
-2. Anaconda Navigator 2.6.6/Jupyter Notebook 7.3.2/Python 3:
+* Sublime Text (Build 4200) - for browsing extremely large (1.3 Gb) text file data dumps to identify data series to extract.
+* Anaconda Navigator 2.6.6/Jupyter Notebook 7.3.2/Python 3:
 
-   (Pandas Module) - for exploration, formatting, filtering, slicing, and aggregation of the data
+&nbsp;	
 
-   (Requests Module) - for interacting with the U.S. Energy Information Administration API within a python notebook to query data from a website
+&nbsp;	(Pandas Module) - for exploration, formatting, filtering, slicing, and aggregation of the data
 
-3. Git - for backups and version control
-4. Microsoft Power BI (v2.148.878.0, 64-bit) - for data visualization
+&nbsp;	
 
-   
+&nbsp;	(Requests Module) - for interacting with the U.S. Energy Information Administration API within a python notebook to 	query data from a website
 
-   
 
-   
 
-   ### The Process
+* Git - for backups and version control
+* Microsoft Power BI (v2.148.878.0, 64-bit) - for data visualization
 
-   
+  
 
-1. Gathered data from various sources.
-2. Utilized python to cleanse the data.
-3. Imported data into Power BI for visualization.
-4. Summarize Insights
+  
 
-   
+  
 
-   
+  ### The Process
 
-   
+  
 
-   ### Problems and Hurdles
+* Gathered data from various sources.
+* Utilized python to cleanse the data.
+* Imported data into Power BI for visualization.
+* Summarize Insights
 
-   
+  
+
+  
+
+  
+
+  ### Problems and Hurdles
+
+  
 
 * In order to access some of the data from the U.S. Energy Information Administration (U.S. EIA), you must use their API. Registration is required to obtain an API key.
 
@@ -178,4 +184,4 @@ This capstone gave me the chance to explore that curiosity in depth and contribu
 
   
 
-* NSS Data Analytics Cohort 15 Webpage - [https://nss-data-analytics-cohort-15.github.io/#students](https://nss-data-analytics-cohort-15.github.io/#students)
+* NSS Data Analytics Cohort 15 Webpage - [https://nss-data-analytics-cohort-15.github.io](https://nss-data-analytics-cohort-15.github.io)
